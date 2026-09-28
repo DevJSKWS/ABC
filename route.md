@@ -9,7 +9,7 @@ ABC Web Services Routes
 /terms (Terms of Use)
 
 /services (Services)
-	/services/web-development
+	/services/web-development (Website Development)
 	/services/it-consulting (IT Consulting)
 	/services/web-hosting-cloud (Web Hosting & Cloud Services)
 	/services/email-hosting (Email Hosting)

@@ -7,14 +7,14 @@ At ABC Web Services, we help businesses leverage technology to improve efficienc
 Whether you're a startup, SME, educational institution, professional firm, or growing enterprise, our experts can help you implement the right technology solutions that are secure, scalable, and cost-effective.
 
 Our Services:
-1.	Website Development
-2.	Custom Software Development 
-3.	Mobile App Development
-4.	Web Hosting & Cloud Services
-5.	Email Hosting
-6.	IT Consulting
-7.	IT Security Consultation & Solutions
-8.	Backup & Disaster Recovery
-9.	Software Licensing
-10.	Digital Marketing
-11.	Chatbot Solutions - Development, Licensing and setup
+1.	Website Development (/services/web-development)
+2.	Custom Software Development (/services/custom-software-development)
+3.	Mobile App Development (/services/mobile-app-development)
+4.	Web Hosting & Cloud Services (/services/web-hosting-cloud)
+5.	Email Hosting (/services/email-hosting)
+6.	IT Consulting (/services/it-consulting)
+7.	IT Security Consultation & Solutions (/services/it-security)
+8.	Backup & Disaster Recovery (/services/backup-disaster-recovery)
+9.	Software Licensing (/services/software-licensing)
+10.	Digital Marketing (/services/digital-marketing)
+11.	Chatbot Solutions - Development, Licensing and setup (/services/chatbot-solutions)
